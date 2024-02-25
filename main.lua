@@ -1,14 +1,14 @@
 --!nonstrict
 
 --[[
-	--* Written by Chief_Beef (@ChiefBeef-187)
+	--* Written by SinfulAccusations
 	--* PerlinNoise.luau, An OOP module made to simulate Perlin Noise instances for flexibility
 	--* Think of it as like Random.new() but for Perlin noise
 	--* I will add random vector functions soon, as of now it only supports standard number operations
 	
 	MIT License
 
-	Copyright (c) 2024 Chief_Beef
+	Copyright (c) 2024 SinfulAccusations
 
 	Permission is hereby granted, free of charge, to any person obtaining a copy
 	of this software and associated documentation files (the "Software"), to deal
